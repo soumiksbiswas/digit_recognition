@@ -1,4 +1,4 @@
-# Project Title: Arabic Handwritten digit recognition
+# Arabic Handwritten digit recognition
 # Details
 • Developed a model using dense and convolutional neural networks on a Kaggle dataset comprising 60k+ training and 10k+ test images
 
